@@ -1,0 +1,25 @@
+{
+  "_comment": "Featured repos, in README order. Star/fork/language come live from the API on every run; the description here overrides the repo's GitHub description. If a repo is private/unavailable, the card generator falls back to the fields defined here.",
+  "projects": [
+    {
+      "repo": "health_care_repo",
+      "description": "Doctor/Patient Management System with role-based access controls and optimized PostgreSQL schemas, containerized with Docker.",
+      "language": "Python"
+    },
+    {
+      "repo": "AI-Recruitment-System",
+      "description": "AI-driven platform for resume analysis and ATS score evaluation. Features NLP-based parsing and real-time React feedback.",
+      "language": "Python"
+    },
+    {
+      "repo": "E-vehiclewebsite",
+      "description": "An interactive, responsive web portal design for an Electric Vehicle platform showcasing vehicle listings and specs.",
+      "language": "JavaScript"
+    },
+    {
+      "repo": "Road-accident-dashboard-",
+      "description": "A data analytics dashboard analyzing road accident patterns and severity metrics to derive safety insights.",
+      "language": "Power BI"
+    }
+  ]
+}

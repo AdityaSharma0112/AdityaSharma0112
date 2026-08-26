@@ -1,0 +1,12 @@
+{
+  "title": "Language Mix",
+  "_comment": "Calculated or estimated percentages of your language proficiency based on your resume.",
+  "axes": [
+    { "label": "Python", "value": 90 },
+    { "label": "SQL",    "value": 80 },
+    { "label": "JavaScript", "value": 75 },
+    { "label": "HTML / CSS", "value": 85 },
+    { "label": "Django", "value": 90 },
+    { "label": "React",  "value": 70 }
+  ]
+}
